@@ -1,1 +1,21 @@
+# Recipe Finder 🍲
+
+Recipe Finder is an interactive web application built with **Streamlit** that allows users to find, add, filter, and get recommendations for recipes. This project is perfect for learning Python, web apps, and handling structured data.
+
+## Features
+
+- **Find Recipes:** Search recipes by name.
+- **Add Recipe:** Add your own recipes with details like ingredients, cuisine, preparation time, difficulty, rating, and an image.
+- **Filter Recipes:** Filter recipes by cuisine, prep time, and difficulty.
+- **Recommendations:** Get recipe recommendations based on your preferred cuisine.
+
+## Screenshots
+
+*(You can add screenshots of your app here to make it more visual)*
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/recipe.git
 
