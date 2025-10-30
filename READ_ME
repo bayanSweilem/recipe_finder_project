@@ -9,13 +9,4 @@ Recipe Finder is an interactive web application built with **Streamlit** that al
 - **Filter Recipes:** Filter recipes by cuisine, prep time, and difficulty.
 - **Recommendations:** Get recipe recommendations based on your preferred cuisine.
 
-## Screenshots
-
-*(You can add screenshots of your app here to make it more visual)*
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/recipe.git
 
